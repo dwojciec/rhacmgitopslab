@@ -4,7 +4,7 @@ metadata:
   name: pacman
   namespace: pacman
 spec:
-  host: pacmanhosthere
+  host: pacman-ingress.apps.cluster-f8f8.f8f8.sandbox1405.opentlc.com
   port:
     targetPort: 8080
   to:
